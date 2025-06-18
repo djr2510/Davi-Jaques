@@ -12,6 +12,5 @@
 🌱 Buscando minha primeira oportunidade na área de desenvolvimento.
 
 🔗 Contato:
-- 📧 Email: davi251006@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seu-link)
 - 💼 [Portfólio](https://github.com/djr2510)
