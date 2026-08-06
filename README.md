@@ -65,11 +65,13 @@
 <div align="center">
 
 <a href="mailto:djr251006@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-djr251006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/SEULINK](https://www.linkedin.com/in/davi-jaques-rodrigues-07512b290/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<br><br>
+
+<a href="https://www.linkedin.com/in/davi-jaques-rodrigues-07512b290/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Davi%20Jaques%20Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -79,5 +81,13 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=djr2510&color=blue)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://tse2.mm.bing.net/th/id/OIP.NkMItDQ1n92euo2EZ8KkPAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="500"/>
 
 </div>
