@@ -34,18 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=djr2510&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djr2510&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -76,11 +64,11 @@
 
 <div align="center">
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:djr251006@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/SEULINK">
+<a href="[https://www.linkedin.com/in/SEULINK](https://www.linkedin.com/in/davi-jaques-rodrigues-07512b290/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -91,13 +79,5 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=djr2510&color=blue)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/djr2510/djr2510/output/github-contribution-grid-snake.svg)
 
 </div>
