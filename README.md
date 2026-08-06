@@ -85,9 +85,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://tse2.mm.bing.net/th/id/OIP.NkMItDQ1n92euo2EZ8KkPAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="500"/>
-
-</div>
